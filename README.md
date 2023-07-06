@@ -1,5 +1,5 @@
 # musical-potato
-This is a python sccraping code to get data from a url and store into a csv file. 
+This is a python web scraping code to get data from a url and store into a csv file. 
 
 
 On the terminal execute the below command to create the projects' working directory and move into that directory.
